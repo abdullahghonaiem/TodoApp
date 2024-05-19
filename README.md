@@ -13,12 +13,12 @@ This is a simple To-Do app built using Flutter, designed to help you keep track 
 
 1. Clone this repository to your local machine:
    ```bash
-   cd todo-app
+   git clone https://github.com/your-username/todo-app.git
 
    
 2. Navigate to the project directory:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   cd todo-app
 
 3. Install dependencies:
    ```bash
