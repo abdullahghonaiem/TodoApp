@@ -9,12 +9,6 @@ This is a simple To-Do app built using Flutter, designed to help you keep track 
 - Edit existing tasks to update their details.
 - Clean and intuitive user interface.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-<!-- Add screenshots or GIFs of your app in action -->
-
 ## Installation
 
 1. Clone this repository to your local machine:
